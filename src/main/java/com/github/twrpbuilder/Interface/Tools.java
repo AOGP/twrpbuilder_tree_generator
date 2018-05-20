@@ -127,6 +127,9 @@ public class Tools implements ToolsInterface {
                 "# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n" +
                 "# See the License for the specific language governing permissions and\n" +
                 "# limitations under the License.\n" +
+                "# This work is for AOGP Android Open Gionee Project to Build ROM TWRP \n" +
+                "# ALGPHELLO khaled necir is the maintainer\n" +
+                "# Credit to TwrpBuilder Team\n" +
                 "#\n" +
                 "\n";
         return copy;
